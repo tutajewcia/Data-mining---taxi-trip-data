@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes taxi trip data to uncover insights and trends related to travel patterns, payments, and driver performance. The dataset includes detailed information about taxi rides, such as travel time, distance, costs, and geographical details. The goal of this project is to clean, explore, and model the data to draw actionable conclusions.
+This project analyzes taxi trip data to uncover insights and trends related to travel patterns, payments, and driver performance. The dataset includes detailed information about taxi rides, such as travel time, distance, costs, and geographical details. The goal of this project is to clean, explore, and model the data to draw conclusions based on the data provided.
 
 ## Dataset Description
 
