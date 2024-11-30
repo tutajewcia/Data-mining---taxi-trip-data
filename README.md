@@ -12,6 +12,7 @@ The dataset contains 10,000 rows and 25 columns, which include:
 - **Trip Details**: Start and end time, duration, distance, fare, tips, tolls, and extras.
 - **Location Data**: Pickup and drop-off areas, latitude, longitude.
 - **Other Information**: Payment type, taxi company, and trip year/month.
+- **Data source**: Kaggle
 
 ## Objectives
 
